@@ -102,6 +102,7 @@ Este projeto faz parte dos meus estudos em desenvolvimento backend e foi criado 
 ## 👨‍💻 Autor
 
 Desenvolvido por Davi Modro
-
+```
 🔗 LinkedIn: https://www.linkedin.com/in/davi-mendon%C3%A7a-modro-28a828370/ 
 🔗 GitHub: https://github.com/DaviMdr
+```
